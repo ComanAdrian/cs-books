@@ -9,6 +9,7 @@ Continuously learning to improve technical depth, architectural thinking, and pr
 - *The Pragmatic Programmer* — Andrew Hunt, David Thomas  
 - *The Mythical Man-Month* — Frederick P. Brooks Jr.  
 - *Modern Software Engineering* — David Farley  
+- *Effective Java* — Joshua Bloch  
 - *A Philosophy of Software Design* — John K. Ousterhout  
 - *Software Engineering at Google* — Titus Winters, Tom Manshreck, Hyrum Wright  
 - *Naming Things: The Hardest Problem in Software Engineering* — Tom Benner  
