@@ -8,7 +8,8 @@ Continuously learning to improve technical depth, architectural thinking, and pr
 - *Code Complete* — Steve McConnell  
 - *The Pragmatic Programmer* — Andrew Hunt, David Thomas  
 - *The Mythical Man-Month* — Frederick P. Brooks Jr.  
-- *Modern Software Engineering* — David Farley  
+- *Modern Software Engineering* — David Farley
+- *The Programmer’s Brain* — Felienne Hermans  
 - *Effective Java* — Joshua Bloch  
 - *A Philosophy of Software Design* — John K. Ousterhout  
 - *Software Engineering at Google* — Titus Winters, Tom Manshreck, Hyrum Wright  
@@ -103,7 +104,7 @@ Continuously learning to improve technical depth, architectural thinking, and pr
 
 --- 
 
-## ⏳ Planned / Next Up
+## ⏳ Next Up
 - *Hands-On Large Language Models* - by Jay Alammar, Maarten Grootendorst
 - *Generative Deep Learning* - David Foster
 - *Concurrency with Modern C++* - by Rainer Grimm
